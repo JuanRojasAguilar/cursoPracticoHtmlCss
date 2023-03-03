@@ -123,3 +123,32 @@ a {
     color: #222;
     cursor: pointer;
 }
+
+.google-footer {
+    width: 100%;
+    height: 5rem;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    font-size: 1.3rem;
+    background-color: #f2f2f2;
+    border: 0.1rem solid #e4e4e4;
+}
+.google-footer ul {
+    margin: 1rem;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+.google-footer_left {
+    justify-self: left;
+}
+.google-footer_right {
+    justify-self: right;
+}
+.google-footer ul li a {
+    margin: 1rem;
+    color: #5f6368;
+}
