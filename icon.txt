@@ -1,0 +1,2 @@
+iconLogo = https://static.thenounproject.com/png/756729-200.png
+googlePerfil = https://lh3.googleusercontent.com/ogw/AAEL6sj_IYoK4zdZZgSYe9lnqyNIRG3MhqQhltNKtc7iKw=s32-c-mo
